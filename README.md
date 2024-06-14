@@ -1,9 +1,3 @@
----
-description: >-
-  A Community Driven Cybersecurity Project: Collaborate, Learn, Compete, and
-  Showcase Your Skills!
----
-
 # Welcome
 
 <figure><img src="src/infophreak-010.png" alt=""><figcaption></figcaption></figure>
